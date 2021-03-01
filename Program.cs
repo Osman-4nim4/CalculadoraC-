@@ -16,7 +16,7 @@ namespace Calculadora_C_
             Console.WriteLine("2.RESTA");
             Console.WriteLine("3.Multiplicacion");
             Console.WriteLine("4.Division");
-            Console.WriteLine("**********************************************");
+            Console.WriteLine("******************ESPACIO****************************");
             Console.WriteLine("Ingrese el numero de la operacion ");
 
             operacionX = Console.ReadLine();

@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\bin\Debug\netcoreapp3.1\Calculadora C#.exe
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\bin\Debug\netcoreapp3.1\Calculadora C#.deps.json
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\bin\Debug\netcoreapp3.1\Calculadora C#.runtimeconfig.json
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\bin\Debug\netcoreapp3.1\Calculadora C#.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\bin\Debug\netcoreapp3.1\Calculadora C#.dll
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\bin\Debug\netcoreapp3.1\Calculadora C#.pdb
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\obj\Debug\netcoreapp3.1\Calculadora C#.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\obj\Debug\netcoreapp3.1\Calculadora C#.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\obj\Debug\netcoreapp3.1\Calculadora C#.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\obj\Debug\netcoreapp3.1\Calculadora C#.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\obj\Debug\netcoreapp3.1\Calculadora C#.dll
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\obj\Debug\netcoreapp3.1\Calculadora C#.pdb
+C:\Users\DELL\Desktop\Clases UMG\Programacion 1\Calculadora C#\obj\Debug\netcoreapp3.1\Calculadora C#.genruntimeconfig.cache

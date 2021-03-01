@@ -52,7 +52,7 @@ namespace Calculadora_C_
             if(operacionX=="4")
             {
                 resultado= cantidadA / cantidadB;
-                Console.WriteLine("Tu respuesta es:"+ resultado);
+                Console.WriteLine("Tu respuesta es: "+ resultado);
                 Console.ReadLine();
             }
         }

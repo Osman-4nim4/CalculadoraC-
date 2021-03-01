@@ -34,7 +34,7 @@ namespace Calculadora_C_
             if(operacionX=="1")
             {
                 resultado= cantidadA + cantidadB;
-                Console.WriteLine("Tu respuesta es:"+ resultado);
+                Console.WriteLine("Tu respuesta es :"+ resultado);
                 Console.ReadLine();
             }
             if(operacionX=="2")
